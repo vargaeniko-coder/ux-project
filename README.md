@@ -2,7 +2,7 @@
 
 Hallgató: Varga Enikő ·  Platform: Android 
 Figma tervfájl: <link, "anyone with the link can view">
-FigJam kutatási tábla: <link, "anyone with the link can view">
+FigJam kutatási tábla: https://www.figma.com/board/XwvYJSJgYjW3oEla7Od9Ma/Untitled?node-id=0-1&t=VC8H2UgugrwD5bPb-1
 Prototípus: <link, a 6. lépésből>
 
 ## Az ötlet egy mondatban
