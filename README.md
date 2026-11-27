@@ -17,4 +17,4 @@ A Fresh Home segít az egyháztartásban élő pároknak, családoknak, barátok
 - [ ] 6. lépés · Prototípus, teszt, esettanulmány (határidő: záró bemutató)
 
 ## AI-használat (a teljes projekt)
-<eszköz · mire · mit változtattam rajta>, vagy: nem használtam
+a feladat értelmezésének, eligazodásban való segítséghez használtam
